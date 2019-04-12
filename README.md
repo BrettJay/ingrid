@@ -1,7 +1,7 @@
 Ingrid
 ======
 
-An Instagram grid template for multiple-part image compositions.
+An Instagram grid template for multi-part image compositions.
 
 ![demo]
 
