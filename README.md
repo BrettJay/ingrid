@@ -14,6 +14,6 @@ Ingrid is a template providing you with an easy way to export a tiling set of im
 Why 375pt?
 ----------
 
-375pt is the native display width of the iPhone 6, 6s, 7, 8, X, and XS—which accounts a large number of devices browsing Instagram with the native app. It’s a convenient starting point, which handily corresponds to a nice 15pt display grid. It also means your grid of photos will subtly align with Instagram’s own UI elements, when viewed on corresponding devices.
+375pt is the native display width of the iPhone 6, 6s, 7, 8, X, and XS—which accounts for a large number of devices browsing Instagram within the native app. It’s a convenient starting point, which handily corresponds to a nice 15pt display grid. It also means your grid of photos will subtly align with Instagram’s own UI elements, when viewed on corresponding devices.
 
 [demo]: ./demo.jpg "Screenshot of Ingrid template in Sketch"
