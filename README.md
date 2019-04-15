@@ -1,5 +1,4 @@
 ![ingrid]
-A free Sketch template, for seamlessly tiling Instagram compositions
 
 ![demo]
 
